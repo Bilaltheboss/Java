@@ -10,4 +10,6 @@ public class Stringmethod {
         String friend = "         Zain        ";
         System.out.println(friend.trim());
     }
+
+    
 }
